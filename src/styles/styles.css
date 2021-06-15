@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    font-family: "Sen", sans-serif;
+    text-align: center;
+  }
+  
+  .page {
+    position: relative;
+    top: 23vh;
+    margin-bottom: 80px;
+  }
+  
+  .page-header {
+    background-color: #222;
+    color: white;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-left: 100px;
+  }
+  
+  .richtext {
+    color: black;
+    padding: 100px;
+  }
+  
+  .richtext > * {
+    text-align: left;
+  }
+  

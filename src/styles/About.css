@@ -1,0 +1,32 @@
+.about-div1 {
+    min-height: 85vh;
+    background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)),
+      url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e840df8e2c9cc7677e4f00e_felix-rostig-UmV2wr-Vbq8-unsplash.jpg");
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .desc-one {
+    color: white;
+    padding: 20px 0;
+    margin: 0;
+    width: 30%;
+    text-align: left;
+    font-size: 60px;
+  }
+  
+  .desc-two {
+    color: white;
+    padding: 20px 0;
+    margin: 0;
+    width: 30%;
+    text-align: left;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
